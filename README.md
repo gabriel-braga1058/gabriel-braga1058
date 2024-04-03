@@ -1,4 +1,4 @@
-### Ola! eu sou Gabriel Braga
+### olá! eu sou Gabriel Braga
 
 - 🔭 Desenvolvedor Full Stack
 - 🌱 Aprendendo Django
