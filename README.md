@@ -1,7 +1,7 @@
 ### olá! eu sou Gabriel Braga
 
 - 🔭 Desenvolvedor Full Stack
-- 🌱 Aprendendo Django
+- 🌱 Aprendendo PHP com Laravel
 - 👯 me manda uma mensagem?
 <div> 
   <a href="https://www.youtube.com/channel/UC1HE3hPT-suqnYjblltG9WQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
